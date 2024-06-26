@@ -1,6 +1,3 @@
-/*pin aesp8266 to sd card
-*/
-
 //Library sensor gyro
 #include <Wire.h>
 #include <L3G.h>
